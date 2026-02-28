@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Saturn",
+  "base_artist": "SZA",
+  "createdAt": "2026-02-28T14:18:55.739163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Purgatorio (feat. saturn)",
+      "artist": "blackwinterwells",
+      "has_synced": true,
+      "path": "select/01_Purgatorio_(feat._saturn)_blackwinterwells.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saturn Song",
+      "artist": "Beach House",
+      "has_synced": false,
+      "path": "select/02_Saturn_Song_Beach_House.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RATCHET SATURN GIRL",
+      "artist": "Aminé",
+      "has_synced": true,
+      "path": "select/03_RATCHET_SATURN_GIRL_Aminé.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Saturn Jig",
+      "artist": "All Natural Lemon & Lime Flavors",
+      "has_synced": false,
+      "path": "select/04_Saturn_Jig_All_Natural_Lemon_&_Lime_Flavors.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Saturn",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/05_Saturn_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born Under Saturn",
+      "artist": "Samael",
+      "has_synced": true,
+      "path": "select/06_Born_Under_Saturn_Samael.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saturn 5",
+      "artist": "Inspiral Carpets",
+      "has_synced": true,
+      "path": "select/07_Saturn_5_Inspiral_Carpets.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saturn",
+      "artist": "Kill the Noise, Brillz & Minxx",
+      "has_synced": true,
+      "path": "select/08_Saturn_Kill_the_Noise,_Brillz_&_Minxx.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Saturn",
+      "artist": "Kill The Noise",
+      "has_synced": false,
+      "path": "select/09_Saturn_Kill_The_Noise.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Saturn - GTA Remix",
+      "artist": "Kill the Noise, Brillz & Minxx",
+      "has_synced": false,
+      "path": "select/10_Saturn_-_GTA_Remix_Kill_the_Noise,_Brillz_&_Minxx.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Saturn Return",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/11_Saturn_Return_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beyond the Icy Rings of Saturn",
+      "artist": "Eugenio Finardi",
+      "has_synced": false,
+      "path": "select/12_Beyond_the_Icy_Rings_of_Saturn_Eugenio_Finardi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saturn Nights",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/13_Saturn_Nights_America.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Saturn",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/14_Saturn_Skillet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Saturn",
+      "artist": "SZA",
+      "has_synced": false,
+      "path": "select/pl_01_Saturn_SZA.txt"
+    }
+  ]
+}
